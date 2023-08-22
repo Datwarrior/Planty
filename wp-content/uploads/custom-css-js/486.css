@@ -1,0 +1,13 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+/* Ligne personnalisée entre les sections */
+body.page-id-196 .custom-line {
+  background-image: url('http://localhost/Projet%206/wp-content/uploads/2023/07/Line-7.png');
+  background-repeat: repeat-x; /* Répéter horizontalement */
+  background-size: contain; /* Ajuster la taille de l'image */
+  height: 10px; /* Hauteur de la ligne */
+  margin-top: 20px; /* Espacement pour donner de l'espace entre les sections */
+}
+
+</style>
+<!-- end Simple Custom CSS and JS -->
