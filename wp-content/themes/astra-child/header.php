@@ -83,7 +83,6 @@ if ( apply_filters( 'astra_header_profile_gmpg_link', true ) ) {
 			 </div>
         <a class="btn" href="http://localhost/Projet%206/?page_id=196">Commander</a>
 
-
 </header>
 
 

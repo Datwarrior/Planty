@@ -21,7 +21,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 <footer style="background-color: white; text-align: center; padding-top: 15px; height: 60px;">
 
-     <a class="Mentions" href="http://localhost/Projet%206/?page_id=32">Mentions légales</a>
+     <a class="Mentions" href="http://localhost/Projet%206/">Mentions légales</a>
 
 </footer>
 

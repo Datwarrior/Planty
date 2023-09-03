@@ -13,6 +13,8 @@
  */
 define( 'CHILD_THEME_ASTRA_CHILD_VERSION', '1.0.0' );
 
+
+add_filter( 'wp_nav_menu_items', 'mon_theme_ajouter_lien_admin_menu', 10, 2);
 function mon_theme_ajouter_lien_admin_menu() {
     
     if ( is_user_logged_in() && current_user_can( 'manage_options' ) ) {
